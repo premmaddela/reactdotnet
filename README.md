@@ -2,6 +2,8 @@
 
 A full-stack web application built with ASP.NET Core and React that displays weather forecasts. This project demonstrates how to create a modern web application with a .NET backend API and a React frontend.
 
+<img width="1141" alt="Screenshot 2025-03-21 at 4 43 14 PM" src="https://github.com/user-attachments/assets/d1fb7b83-c7b6-45bd-9147-3fde744493b1" />
+
 ## Features
 
 - ASP.NET Core backend with REST API
